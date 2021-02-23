@@ -1,0 +1,29 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+/* footer{
+  position:absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+} */
+
+.signout-css{
+  cursor: pointer;
+}
+
+.badge
+{
+background-color:#198754;
+}
+.badge-important
+{
+background-color:#B94A47!important;
+}
